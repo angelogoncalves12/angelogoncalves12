@@ -22,6 +22,8 @@
 - Estruturas de Dados
 - Banco de Dados
 - Segurança da Informação
+- Cybersegurança
+- Fundamentos de Redes
 
 ---
 
