@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/30/d6/72/30d6728080f556b5a38a798547242131.gif" alt="Microprocessador Azul Cyberpunk" width="800" style="border-radius: 10px;"/>
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%3E_ANGELO+GONÇALVES;%3E_CLANGS+DEV;%3E_CYBERSECURITY;%3E_SYSTEM.INIT()" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000428,004e92,0077B6&height=220&section=header&text=ANGELO%20GONÇALVES&fontSize=42&animation=waving&fontColor=ffffff&fontAlignY=35&desc=CLANGS%20DEV%20|%20CYBERSECURITY%20&descSize=20&descAlignY=62&descAlign=50&descColor=00F0FF" alt="Cyber Banner" />
 </div>
 
 <p align="center">
@@ -17,6 +11,7 @@
   </a>
 </p>
 
+---
 ---
 
 ### 👨‍💻 Sobre mim
