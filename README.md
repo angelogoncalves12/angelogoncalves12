@@ -47,26 +47,41 @@
 </div>
 
 <br>
-### 🎮 Player Status & Skill Tree
+
+### 🎮 SYSTEM STATUS // OVERALL PLAYER RANK
 
 <div align="center">
-  <h1>Ⓐ</h1>
-  <p><strong>OVERALL PLAYER RANK: A</strong><br><em>Média geral consolidada com forte domínio em infraestrutura, sistemas operacionais e lógica, expandindo para cloud e segurança.</em></p>
+  <table width="100%">
+    <tr>
+      <td align="center" width="20%">
+        <h1>Ⓢ</h1>
+        <code>[CORE: S]</code>
+      </td>
+      <td width="80%">
+        <strong>OVERALL RATING: RANK A (Evolving to S)</strong><br>
+        <em>Status do Sistema: Núcleo operando com alto rendimento em infraestrutura, sistemas operacionais e lógica baseada em C. Módulos de Cloud e Segurança em processo de carregamento ativo.</em>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-| Rank | Tecnologia / Área | Status / Contexto |
+### ⚡ Skill Tree & Module Ranks
+
+| Status | Módulo / Tecnologia | Nível de Processamento & Contexto |
 | :---: | :--- | :--- |
-| <h3>Ⓢ</h3> | **Linux (EndeavourOS, CachyOS, Ubuntu, Zorin)** | Customização Avançada, Rolling Releases & Configuração |
-| <h3>Ⓢ</h3> | **Windows (7, 10, VMs & Debloat)** | Otimização Profunda & Arquitetura |
-| <h3>Ⓐ</h3> | **Linguagem C** | Base Acadêmica Sólida & Lógica |
-| <h3>Ⓐ</h3> | **Redes / Cisco** | NetAcad & Matéria da Faculdade |
-| <h3>Ⓐ</h3> | **Git & GitHub** | Versionamento & Histórico Unificado |
-| <h3>Ⓑ</h3> | **AWS & Cloud** | Bootcamp Ativo |
-| <h3>Ⓑ</h3> | **Cybersecurity** | Cisco Intro + Bootcamp Atual |
-| <h3>Ⓑ</h3> | **HTML5 & CSS3** | Fundamentos Web |
-| <h3>Ⓒ</h3> | **JavaScript & Python** | Em Estudo Contínuo |
+| <h2 align="center">Ⓢ</h2> | **Linux (EndeavourOS, CachyOS, Ubuntu, Zorin)** | `LOAD: 100%` — Customização Avançada, Rolling Releases & Configuração |
+| <h2 align="center">Ⓢ</h2> | **Windows (7, 10, VMs & Debloat)** | `LOAD: 100%` — Otimização Profunda & Arquitetura |
+| <h2 align="center">Ⓐ</h2> | **Linguagem C** | `LOAD: 75%` — Base Acadêmica Sólida & Lógica |
+| <h2 align="center">Ⓐ</h2> | **Redes / Cisco** | `LOAD: 75%` — NetAcad & Matéria da Faculdade |
+| <h2 align="center">Ⓐ</h2> | **Git & GitHub** | `LOAD: 75%` — Versionamento & Histórico Unificado |
+| <h2 align="center">Ⓑ</h2> | **AWS & Cloud** | `LOAD: 50%` — Bootcamp Ativo |
+| <h2 align="center">Ⓑ</h2> | **Cybersecurity** | `LOAD: 50%` — Cisco Intro + Bootcamp Atual |
+| <h2 align="center">Ⓑ</h2> | **HTML5 & CSS3** | `LOAD: 50%` — Fundamentos Web |
+| <h2 align="center">Ⓒ</h2> | **JavaScript & Python** | `LOAD: 25%` — Em Estudo Contínuo |
+
+<br>
 
 <br>
 
