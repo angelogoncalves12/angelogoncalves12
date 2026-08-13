@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Olá,%20eu%20sou%20o%20Angelo!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&fontColor=ffffff&height=250&section=header&text=ANGELO%20GONÇALVES&fontSize=50&animation=fadeIn&fontAlignY=38&desc=CLANGS%20DEV&descSize=22&descAlignY=58&descAlign=50&descColor=ffffff" alt="Angelo Gonçalves Banner" />
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 📚 Construindo uma base sólida em **desenvolvimento web, lógica de programação e fundamentos computacionais**.
+- 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**, construindo uma base sólida em desenvolvimento web, lógica de programação e fundamentos computacionais.
 - 🔐 Apaixonado pela área de **Cybersecurity** e arquitetura **Back-end**.
 - 🎲 Quando não estou codando, provavelmente estou rodando um D20 em uma sessão de RPG de mesa ou mergulhando de cabeça na literatura contemporânea brasileira.
 - 🎯 Atualmente aprendendo: **Node.js, Banco de Dados e Redes**.
@@ -31,15 +31,14 @@
 ### 🏆 Certificações & Conquistas
 
 <div align="left">
-  <a href="URL_PARA_O_SEU_CERTIFICADO_OU_CREDLY" target="_blank">
-    <img src="LINK_DA_SUA_IMAGEM_AQUI_CYBERSECURITY" alt="Cisco Introduction to Cybersecurity" width="120" style="margin-right: 15px;"/>
+  <a href="#" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Cisco Introduction to Cybersecurity" width="120" style="margin-right: 15px;"/>
   </a>
-  <a href="URL_PARA_O_SEU_CERTIFICADO_OU_CREDLY" target="_blank">
-    <img src="LINK_DA_SUA_IMAGEM_AQUI_NETWORK" alt="Cisco Network Technician Career Path" width="120"/>
+  <a href="#" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Cisco Network Technician Career Path" width="120"/>
   </a>
 </div>
-
-*Clique nas badges para verificar a autenticidade.*
+*Nota: Não se esqueça de substituir o `LINK_DA_SUA_IMAGEM...` pelo link real onde você fará o upload das imagens das badges, e o `#` pelo link da certificação.*
 
 <br>
 
