@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000428,004e92,0077B6&height=220&section=header&text=ANGELO%20GONÇALVES&fontSize=42&animation=waving&fontColor=ffffff&fontAlignY=35&desc=CLANGS%20DEV%20|%20CYBERSECURITY%20&descSize=20&descAlignY=62&descAlign=50&descColor=00F0FF" alt="Cyber Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=220&section=header&text=ANGELO%20GONÇALVES&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=CLANGS%20DEV%20|%20CYBERSECURITY&descSize=18&descAlignY=62&descAlign=50&descColor=00F0FF" alt="Banner Azul" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%3E_ANGELO+GONÇALVES;%3E_CLANGS+DEV;%3E_CYBERSECURITY;%3E_SYSTEM.INIT()" alt="Typing SVG" />
+  </a>
 </div>
 
 <p align="center">
@@ -20,6 +26,15 @@
 - 🔐 Apaixonado pela área de **Cybersecurity** e arquitetura **Back-end**.
 - 🎲 Quando não estou codando, provavelmente estou rodando um D20 em uma sessão de RPG de mesa ou mergulhando de cabeça na literatura brasileira (ou Russa kk).
 - 🎯 Atualmente aprendendo: **Node.js, Banco de Dados e Redes**.
+
+<br>
+
+### 🎮 Player Status / Ranking Geral
+<div align="center">
+  <img src="https://img.shields.io/badge/OVERALL_RANK-S-brightgreen?style=for-the-badge" alt="Rank S"/>
+  <img src="https://img.shields.io/badge/CLASS-SYSTEM%20%26%20SECURITY-blue?style=for-the-badge" alt="Class"/>
+  <p><em>"Especialista em sistemas operacionais, infraestrutura, customização avançada e lógica baseada em C."</em></p>
+</div>
 
 <br>
 
@@ -53,9 +68,7 @@
 
 <br>
 
-### 🛠️ Nível de Proficiência Atual
-
-### 🛠️ Nível de Proficiência (Tier List)
+### 🛠️ Nível de Proficiência 
 
 | Tecnologia / Área | Rank | Status / Contexto |
 | :--- | :---: | :--- |
