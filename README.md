@@ -60,20 +60,20 @@
 
 ### 🛠️ Nível de Proficiência Atual
 
-| Tecnologia / Área | Nível Atual (Realista & Consolidado) | Status / Contexto |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/> | ▰▰▰▰▰▰▱▱▱▱ 60% | Base Acadêmica Sólida & Projetos |
-| <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> | ▰▰▰▰▰▰▱▱▱▱ 60% | Fundamentos de Redes & Sistemas |
-| <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/> | ▰▰▰▰▰▰▰▱▱▱ 70% | Arquitetura & Uso Geral |
-| <img src="https://img.shields.io/badge/AWS-Cloud-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/> | ▰▰▰▰▱▱▱▱▱▱ 40% | Bootcamp Ativo & Nuvem |
-| <img src="https://img.shields.io/badge/Networking-Cisco-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/> | ▰▰▰▰▰▰▱▱▱▱ 60% | Certificado NetAcad & Faculdade |
-| <img src="https://img.shields.io/badge/Cybersecurity-Security-%23D9534F.svg?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cyber"/> | ▰▰▰▰▱▱▱▱▱▱ 40% | Cisco Intro + Bootcamp Atual |
-| <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> | ▰▰▰▰▰▱▱▱▱▱ 50% | Versionamento & Histórico |
-| <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> | ▰▰▰▰▰▱▱▱▱▱ 50% | Gestão de Repositórios |
-| <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> | ▰▰▰▰▱▱▱▱▱▱ 40% | Fundamentos Web |
-| <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> | ▰▰▰▰▱▱▱▱▱▱ 40% | Fundamentos Web |
-| <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> | ▰▰▰▱▱▱▱▱▱▱▱ 30% | Em Estudo Contínuo |
-| <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> | ▰▰▰▱▱▱▱▱▱▱▱ 30% | Lógica Aplicada |
+### 🛠️ Nível de Proficiência (Tier List)
+
+| Tecnologia / Área | Rank | Status / Contexto |
+| :--- | :---: | :--- |
+| **Linux (EndeavourOS, CachyOS, Ubuntu, Zorin)** | <img src="https://img.shields.io/badge/RANK-S-brightgreen.svg?style=for-the-badge" alt="Rank S"/> | Customização Avançada, Rolling Releases & Configuração |
+| **Windows (7, 10, VMs & Debloat)** | <img src="https://img.shields.io/badge/RANK-S-brightgreen.svg?style=for-the-badge" alt="Rank S"/> | Otimização Profunda & Arquitetura |
+| **Linguagem C** | <img src="https://img.shields.io/badge/RANK-A-blue.svg?style=for-the-badge" alt="Rank A"/> | Base Acadêmica Sólida & Lógica |
+| **Redes / Cisco** | <img src="https://img.shields.io/badge/RANK-A-blue.svg?style=for-the-badge" alt="Rank A"/> | NetAcad & Matéria da Faculdade |
+| **Git & GitHub** | <img src="https://img.shields.io/badge/RANK-A-blue.svg?style=for-the-badge" alt="Rank A"/> | Versionamento & Histórico Unificado |
+| **AWS & Cloud** | <img src="https://img.shields.io/badge/RANK-B-yellow.svg?style=for-the-badge" alt="Rank B"/> | Bootcamp Ativo |
+| **Cybersecurity** | <img src="https://img.shields.io/badge/RANK-B-yellow.svg?style=for-the-badge" alt="Rank B"/> | Cisco Intro + Bootcamp Atual |
+| **HTML5 & CSS3** | <img src="https://img.shields.io/badge/RANK-B-yellow.svg?style=for-the-badge" alt="Rank B"/> | Fundamentos Web |
+| **JavaScript & Python** | <img src="https://img.shields.io/badge/RANK-C-orange.svg?style=for-the-badge" alt="Rank C"/> | Em Estudo Contínuo |
+
 ### 📊  Commits
 
 <br>
