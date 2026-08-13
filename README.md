@@ -1,10 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=220&section=header&text=ANGELO%20GONÇALVES&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=CLANGS%20DEV%20|%20CYBERSECURITY&descSize=18&descAlignY=62&descAlign=50&descColor=00F0FF" alt="Banner Azul" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=180&section=header&text=ANGELO%20GONÇALVES&fontSize=42&fontColor=ffffff&fontAlignY=50" alt="Banner Azul" />
+</div>
+
+<div align="center">
+  <p style="color: #ffffff; font-family: 'Fira Code', monospace; font-size: 15px; letter-spacing: 1px; margin-top: -10px; margin-bottom: 15px;">
+    STUDENT OF SYSTEM ANALYSIS AND DEVELOPMENT
+  </p>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%3E_ANGELO+GONÇALVES;%3E_CLANGS+DEV;%3E_CYBERSECURITY;%3E_SYSTEM.INIT()" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%3E_clangsdev;%3E_cybersecurity;%3E_machine+learning;%3E_cloud+computing;%3E_network+student" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,15 +35,6 @@
 
 <br>
 
-### 🎮 Player Status / Ranking Geral
-<div align="center">
-  <img src="https://img.shields.io/badge/OVERALL_RANK-S-brightgreen?style=for-the-badge" alt="Rank S"/>
-  <img src="https://img.shields.io/badge/CLASS-SYSTEM%20%26%20SECURITY-blue?style=for-the-badge" alt="Class"/>
-  <p><em>"Especialista em sistemas operacionais, infraestrutura, customização avançada e lógica baseada em C."</em></p>
-</div>
-
-<br>
-
 ### 🏆 Certificações & Conquistas
 
 <div align="left">
@@ -48,6 +45,28 @@
     <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Cisco Network Technician Career Path" width="120"/>
   </a>
 </div>
+
+<br>
+### 🎮 Player Status & Skill Tree
+
+<div align="center">
+  <h1>Ⓐ</h1>
+  <p><strong>OVERALL PLAYER RANK: A</strong><br><em>Média geral consolidada com forte domínio em infraestrutura, sistemas operacionais e lógica, expandindo para cloud e segurança.</em></p>
+</div>
+
+<br>
+
+| Rank | Tecnologia / Área | Status / Contexto |
+| :---: | :--- | :--- |
+| <h3>Ⓢ</h3> | **Linux (EndeavourOS, CachyOS, Ubuntu, Zorin)** | Customização Avançada, Rolling Releases & Configuração |
+| <h3>Ⓢ</h3> | **Windows (7, 10, VMs & Debloat)** | Otimização Profunda & Arquitetura |
+| <h3>Ⓐ</h3> | **Linguagem C** | Base Acadêmica Sólida & Lógica |
+| <h3>Ⓐ</h3> | **Redes / Cisco** | NetAcad & Matéria da Faculdade |
+| <h3>Ⓐ</h3> | **Git & GitHub** | Versionamento & Histórico Unificado |
+| <h3>Ⓑ</h3> | **AWS & Cloud** | Bootcamp Ativo |
+| <h3>Ⓑ</h3> | **Cybersecurity** | Cisco Intro + Bootcamp Atual |
+| <h3>Ⓑ</h3> | **HTML5 & CSS3** | Fundamentos Web |
+| <h3>Ⓒ</h3> | **JavaScript & Python** | Em Estudo Contínuo |
 
 <br>
 
@@ -68,19 +87,6 @@
 
 <br>
 
-### 🛠️ Nível de Proficiência 
-
-| Tecnologia / Área | Rank | Status / Contexto |
-| :--- | :---: | :--- |
-| **Linux (EndeavourOS, CachyOS, Ubuntu, Zorin)** | <img src="https://img.shields.io/badge/RANK-S-brightgreen.svg?style=for-the-badge" alt="Rank S"/> | Customização Avançada, Rolling Releases & Configuração |
-| **Windows (7, 10, VMs & Debloat)** | <img src="https://img.shields.io/badge/RANK-S-brightgreen.svg?style=for-the-badge" alt="Rank S"/> | Otimização Profunda & Arquitetura |
-| **Linguagem C** | <img src="https://img.shields.io/badge/RANK-A-blue.svg?style=for-the-badge" alt="Rank A"/> | Base Acadêmica Sólida & Lógica |
-| **Redes / Cisco** | <img src="https://img.shields.io/badge/RANK-A-blue.svg?style=for-the-badge" alt="Rank A"/> | NetAcad & Matéria da Faculdade |
-| **Git & GitHub** | <img src="https://img.shields.io/badge/RANK-A-blue.svg?style=for-the-badge" alt="Rank A"/> | Versionamento & Histórico Unificado |
-| **AWS & Cloud** | <img src="https://img.shields.io/badge/RANK-B-yellow.svg?style=for-the-badge" alt="Rank B"/> | Bootcamp Ativo |
-| **Cybersecurity** | <img src="https://img.shields.io/badge/RANK-B-yellow.svg?style=for-the-badge" alt="Rank B"/> | Cisco Intro + Bootcamp Atual |
-| **HTML5 & CSS3** | <img src="https://img.shields.io/badge/RANK-B-yellow.svg?style=for-the-badge" alt="Rank B"/> | Fundamentos Web |
-| **JavaScript & Python** | <img src="https://img.shields.io/badge/RANK-C-orange.svg?style=for-the-badge" alt="Rank C"/> | Em Estudo Contínuo |
 
 ### 📊  Commits
 
