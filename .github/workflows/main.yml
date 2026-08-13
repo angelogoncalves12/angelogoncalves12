@@ -1,23 +1,33 @@
 name: Generate Datas
+
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+
+# Isso aqui resolve o Erro 403 (dá permissão para o bot salvar a imagem)
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      # Atualizado para v4 para resolver o aviso do Node.js
+      - uses: actions/checkout@v4
+      
       - uses: Platane/snk@v3
         with:
           github_user_name: angelogoncalves12
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+            
+      # Atualizado para v4 para resolver o aviso do Node.js
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
