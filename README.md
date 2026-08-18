@@ -44,6 +44,10 @@
   <a href="#" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Cisco Network Technician Career Path" width="120"/>
   </a>
+    <a href="#" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="12"/>
+  </a>
+  
 </div>
 
 <br>
