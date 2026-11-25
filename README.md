@@ -30,8 +30,8 @@
 
 - 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**, construindo uma base sólida em desenvolvimento web, lógica de programação e fundamentos computacionais.
 - 🔐 Apaixonado pela área de **Cybersecurity** e arquitetura **Back-end**.
-- 🎲 Quando não estou codando, provavelmente estou rodando um D20 em uma sessão de RPG de mesa ou mergulhando de cabeça na literatura brasileira (ou Russa kk).
-- 🎯 Atualmente aprendendo: **Node.js, Banco de Dados e Redes**.
+- 🎲 Quando não estou codando, provavelmente estou rodando um D20 em uma sessão de RPG de mesa, mergulhando de cabeça na literatura brasileira ou russa ou escutando música
+- 🎯 Atualmente aprendendo: **Node.js, Java e POO e AWS**.
 
 <br>
 
@@ -45,7 +45,11 @@
     <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Cisco Network Technician Career Path" width="120"/>
   </a>
     <a href="#" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="120"/>
+    <img src="https://images.credly.com/size/110x110/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" alt="Cisco Junior Network Engineer Path" width="120"/>
+  </a>
+    </a>
+    <a href="#" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" alt="AWS Builder Student Leader" width="120"/>
   </a>
   
 </div>
