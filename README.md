@@ -49,7 +49,7 @@
   </a>
     </a>
     <a href="#" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" alt="AWS Builder Student Leader" width="120"/>
+    <img src="https://images.credly.com/size/340x340/images/1e8d730b-58fc-48b8-be32-cc8758f90229/blob" alt="AWS Builder Student Leader" width="120"/>
   </a>
   
 </div>
